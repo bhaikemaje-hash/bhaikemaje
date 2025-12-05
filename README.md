@@ -3,7 +3,7 @@
 <head> 
 </head>
 <body>
-  ![My Logo]( https://share.google/images/qPv1GDNFYNHpKIw8X)
+  ![Samsung Phone] (https://m.media-amazon.com/images/I/71Nwtop9jtL._SX679_.jpg)
 <h1>Welcome to My Website</h1>
 <p>This is hosted using GitHub</p>
 </body>
