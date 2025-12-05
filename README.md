@@ -1,7 +1,6 @@
-<!DOCTYPE html>
+
 <html>
-<head>
-<title>My Simple Website</title>
+<head> 
 </head>
 <body>
 <h1>Welcome to My Website</h1>
